@@ -71,6 +71,6 @@ Here is a GIF showcasing Multi-view Multi-object Association and Tracking:
 
 ## License
 
-This project is licensed under the Apache-2.0 License. Full license text: https://www.apache.org/licenses/LICENSE-2.0
+This project is licensed under the Apache-2.0 License. Full license text: [LICENSE](LICENSE)
 
 
