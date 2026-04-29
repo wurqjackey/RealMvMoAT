@@ -1,7 +1,7 @@
 ﻿# Password Request Form
 
 Please complete this form and attach it when sending your password request email to:
-`wuruiqi.salon@mail.nwpu.edu.cn`
+`wurq@mail.nwpu.edu.cn`
 
 ## Applicant Information
 
